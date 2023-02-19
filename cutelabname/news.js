@@ -178,3 +178,9 @@ var news_data = [
 		'additional_text': ''
 	},
 ]
+
+function getNews(){
+	return news_data;
+}
+	
+
