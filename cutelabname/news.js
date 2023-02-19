@@ -21,7 +21,7 @@ var news_data = [
         'website_url': 'https://theconversation.com/chatgpt-is-great-youre-just-using-it-wrong-198848',
         'additional_text': ''
 
-    }
+    },
     {
         'title': 'Computational Journalism work of Alex Spangher covered by ISI news.',
         'date': '11/29/2022', //MM/DD/YYYY
