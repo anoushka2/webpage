@@ -179,8 +179,8 @@ var news_data = [
 	},
 ]
 
-function getNews(){
-	return news_data;
-}
+// function getNews(){
+// 	return news_data;
+// }
 	
 
